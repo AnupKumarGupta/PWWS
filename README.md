@@ -14,7 +14,8 @@ This repository contains Keras implementations of the ACL2019 paper [Generating 
 * Python 3.7.1.
 * Versions of all depending libraries are specified in `requirements.txt`. To reproduce the reported results, please make sure that the specified versions are installed.
 * If you did not download WordNet(a lexical database for the English language), use `nltk.download('wordnet')` to do so.(Cancel the code comment on line 14 in `paraphrase. py`) 
-
+* Run this command `python -m spacy download en_core_web_sm` to install `en_core_web_sm`
+* Run this command `python -m spacy download en` to install `en`
 
 ## Usage
 

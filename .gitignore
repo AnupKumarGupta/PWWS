@@ -1,2 +1,4 @@
 PWWSvenv
 .idea/
+data_set
+glove.6B.100d.txt
